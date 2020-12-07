@@ -10,3 +10,5 @@ Additionally, I played the game a bit (its pretty short) and noticed that someti
 
 Here is the game! I had so much fun making it so I hope you enjoy trying it out. I know it's really basic so hopefully I can make it more interesting next week, but I loved experimenting with the shape of the tombs and the colours, and then deciding how I wanted the dialogs to be read out, and what information to add. (If you have any ideas or recommendations on what you think would be a good addition I would love to hear it!) 
 
+Link[file:///C:/Users/teddy/Downloads/the_graveyard_project.html]
+

@@ -8,5 +8,5 @@ I also would love to make it so that the layout matches the actual site, but bec
 
 Additionally, I played the game a bit (its pretty short) and noticed that sometimes my dialog is empty because of the page break I added and then sometimes the text moves on to the next dialog, but I was consistent with each tomb so I have no idea why it's doing that. 
 
-Here is the game! I had so much fun making it so I hope you enjoy trying it out. I know it's really basic so hopefully I can make it more interesting next week, but I loved experimenting with the shape of the tombs and the colours, and then deciding how I wanted the dialogs to be read out, and what information to add. (If you have any ideas or recommendations on what you think would be a good addition I would love to hear it!) 
+I added my game to the repo this week, but I don't know how to link it! When I opened the_graveyard_project.html it showed the code, which is all good and dandy, but I want to share the game with you! I hope to figure this out for next week and I will ask the group how other people did it, but I had a lot of fun making this and trying to figure out what colours to use, what shapes to make the tombs, what order to write the info, etc. 
 
